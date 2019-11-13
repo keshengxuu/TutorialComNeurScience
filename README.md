@@ -6,6 +6,6 @@ Reference
 ## MPI for Python  
 
 
-mpi4py installation and tutorial https://mpi4py.readthedocs.io/en/stable/index.html
+- mpi4py installation and tutorial https://mpi4py.readthedocs.io/en/stable/index.html
 
 
